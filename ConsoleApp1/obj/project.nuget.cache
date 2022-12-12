@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpJy0Eu5YJ6pNzeyhvJ4iHyq7szPRw7e1pkrSlNEDy5lTy6kNl8y+JcAaBYC4ZKx2U4bepF44ljQIADMfoEk9w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Универ\\Git\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dimab\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\dimab\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\dimab\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
